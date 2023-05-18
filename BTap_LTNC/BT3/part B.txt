@@ -1,0 +1,21 @@
+1 iv.double a[5]
+2. ii and iv
+3. ii. int a[20][20]
+4. i.foo[6]
+5. iii.&foo
+6. ii. cả 2 chỉ số diễn tả chỉ số ptu của mảng a
+7. iii. địa chỉ của ptu đầu tiên trong mảng được truyền
+8. ii. 
+   iii.
+9. iii.
+10. i
+11. iii.
+12. iv.
+13. iii.
+14. ii.3
+15. i và ii
+16. iii.
+17. iii.
+18. i and ii
+19. iii and iv
+20. i.

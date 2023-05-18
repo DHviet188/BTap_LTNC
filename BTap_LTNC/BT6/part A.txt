@@ -1,0 +1,6 @@
+2. Lỗi tràn ngăn xếp. Do ko có điều kiện kết thúc đệ quy
+3. Lỗi tràn ngăn xếp. Do giá trị của tham số truyền vào không được thay đổi
+4. Lỗi tràn ngăn xếp. Do đệ quy quá sâu
+5. Thời gian chạy đệ quy với n = 45: 6.807s
+Thời gian chạy vòng lặp với n = 45: 0.03s
+6. Khi tạo mảng 10000 phần tử trong đệ quy thì bị lỗi tràn bộ nhớ sau 60 lần đệ quy.

@@ -1,0 +1,23 @@
+câu 3 1000 lần
+câu 4 đều xuất ra màn hình là 17
+câu 6 phụ thuộc vào compiler
+câu 7 chọn D
+câu 8 chọn A
+câu 9 chọn D
+câu 10 chọn B
+câu 11 chọn C
+câu 12 chọn B
+câu 13 chọn D
+câu 14 chọn B
+câu 15 chọn B
+câu 16 chọn B
+câu 17 chọn B
+câu 18 chọn A
+câu 19 chọn B
+câu 20 chọn 
+câu 21 chọn B
+câu 22 chọn
+câu 23 chọn A/C
+câu 24 chọn B
+câu 25 chọn A/B
+câu 26 chọn B

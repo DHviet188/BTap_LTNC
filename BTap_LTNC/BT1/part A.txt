@@ -1,0 +1,18 @@
+1. Nếu grade >= 90 và grade <= 100 thì isA = true ngược lại bằng false;
+	Lỗi cũ pháp sửa thành:
+		bool isA = (90 >= grade && grade <= 100)
+2. in ra 0
+3. bởi vì bị tràn số
+4. false
+5. lập tức báo lỗi số chia cho 0
+6.báo lỗi biến k có sẵn (invalid)
+   nếu khai báo x ngoài hàm main thì sẽ in ra 0
+7.0
+  0.75
+  0.75
+  0.75
+8.lỗi k xác định biến được định nghĩa sau
+9. 'A' k được định nghĩa 
+10. 'A' k được định nghĩa 
+11. bỏ dấu ngoặc ở 5/9 vì nếu để trong ngoặc thì nó sẽ trả về số kiểu nguyên dẫn đến kết quả sai
+12. nó sẽ in ra "Here"
